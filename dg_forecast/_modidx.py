@@ -29,4 +29,5 @@ d = { 'settings': { 'audience': 'Developers',
                 'version': '0.0.1'},
   'syms': { 'dg_forecast..ipynb_checkpoints.core-checkpoint': { 'dg_forecast..ipynb_checkpoints.core-checkpoint.foo': 'https://maimanuel.github.io/dg_forecast/.ipynb_checkpoints.core-checkpoint.html#foo',
                                                                 'dg_forecast..ipynb_checkpoints.core-checkpoint.fun_print': 'https://maimanuel.github.io/dg_forecast/.ipynb_checkpoints.core-checkpoint.html#fun_print'},
-            'dg_forecast.core': {'dg_forecast.core.fun_print': 'https://maimanuel.github.io/dg_forecast/core.html#fun_print'}}}
+            'dg_forecast.core': { 'dg_forecast.core.fool_print': 'https://maimanuel.github.io/dg_forecast/core.html#fool_print',
+                                  'dg_forecast.core.fun_print': 'https://maimanuel.github.io/dg_forecast/core.html#fun_print'}}}
