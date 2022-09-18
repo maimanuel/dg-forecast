@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "DG Forecast",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "DG Forecast",
+    "section": "Install",
+    "text": "Install\npip install dg_forecast\nHello World!"
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "Core",
+    "section": "",
+    "text": "source\n\nfun_print\n\n fun_print ()\n\nThat was fun!\n\nsource\n\n\nfool_print\n\n fool_print ()\n\n\n#assert(1==2)"
+  }
+]
